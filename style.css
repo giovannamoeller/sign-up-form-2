@@ -71,6 +71,7 @@ main.container {
     display: flex;
     align-items: center;
     border-radius: 8px;
+    cursor: pointer;
 } 
 
 .input-field .radio-btn label span {
